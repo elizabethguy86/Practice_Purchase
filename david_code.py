@@ -40,6 +40,8 @@ def datetime_cleans(df):
     df['License.Issue.Date'] = pd.to_datetime(df.loc[:, 'License.Issue.Date'], )
     df['Graduation.Date'] = pd.to_datetime(df.loc[:, 'Graduation.Date'], )
     df['approach.date'] = pd.to_datetime(df.loc[:, 'approach.date'], )
+    df['day_of_week'] = df['approach.date'].dt.day_name()
+    df['month'] = df['approach.date'].dt.month_name()
 
     date_today = dt.datetime.now()
     df['years_in_state'] = df['License.Issue.Date'].apply(lambda x: date_today - x)
@@ -48,7 +50,7 @@ def datetime_cleans(df):
     df['years_in_practice'] = df['Graduation.Date'].apply(lambda x: date_today - x)
     df['years_in_practice'] = round(df['years_in_practice'].apply(lambda x: get_days(x)) / 365, 2)
 
-    categories = ['broker.ID', 'City']
+    categories = ['broker.ID', 'City', 'day_of_week', 'month']
     df = make_dummies_dataframe(df, categories)
     df.drop(columns = categories, inplace=True)
 
