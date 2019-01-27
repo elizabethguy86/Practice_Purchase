@@ -1,0 +1,1827 @@
+[
+ {
+   "Address.1st.Line": "4500 S. Dobson Road",
+   "City": "Chandler",
+   "Date to Approach": "2019-02-01"
+ },
+ {
+   "Address.1st.Line": "13825 N Northsight Blvd #120A",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-02"
+ },
+ {
+   "Address.1st.Line": "23271 N Scottsdale Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-03"
+ },
+ {
+   "Address.1st.Line": "7308 N Red Ledge Drive",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-02-04"
+ },
+ {
+   "Address.1st.Line": "8900 E. Pinnacle Peak, #E-5",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-05"
+ },
+ {
+   "Address.1st.Line": "7700 E Indian School Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-06"
+ },
+ {
+   "Address.1st.Line": "314 W Goldfinch Way",
+   "City": "Chandler",
+   "Date to Approach": "2019-02-07"
+ },
+ {
+   "Address.1st.Line": "7101 E. Thomas Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-08"
+ },
+ {
+   "Address.1st.Line": "3226 N. Miller Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-09"
+ },
+ {
+   "Address.1st.Line": "7500 E. McDonald Dr. #101B",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-10"
+ },
+ {
+   "Address.1st.Line": "11015 N Scottsdale Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-11"
+ },
+ {
+   "Address.1st.Line": "9377 E. Bell Rd #255",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-12"
+ },
+ {
+   "Address.1st.Line": "7600 E. Camelback, Suite #1",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-13"
+ },
+ {
+   "Address.1st.Line": "355 Willow Way",
+   "City": "Sedona",
+   "Date to Approach": "2019-02-14"
+ },
+ {
+   "Address.1st.Line": "16211 N Scottsdale Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-15"
+ },
+ {
+   "Address.1st.Line": "10333 N Oracle Rd #21203",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-02-16"
+ },
+ {
+   "Address.1st.Line": "11111 N. Scottsdale Rd Ste 130",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-17"
+ },
+ {
+   "Address.1st.Line": "10394 E. Morning Star Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-18"
+ },
+ {
+   "Address.1st.Line": "7425 E Shea Blvd, Ste 110",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-19"
+ },
+ {
+   "Address.1st.Line": "225 W Fry Blvd",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-02-20"
+ },
+ {
+   "Address.1st.Line": "73-1 E. Scottsdale Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-21"
+ },
+ {
+   "Address.1st.Line": "150 S State Rt 69, Suite #5",
+   "City": "Dewey",
+   "Date to Approach": "2019-02-22"
+ },
+ {
+   "Address.1st.Line": "10883 E. Le Marche Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-23"
+ },
+ {
+   "Address.1st.Line": "10214 N Tatum Blvd  #A-600",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-24"
+ },
+ {
+   "Address.1st.Line": "1785 W. Hwy. 89A, #3G",
+   "City": "Sedona",
+   "Date to Approach": "2019-02-25"
+ },
+ {
+   "Address.1st.Line": "35365 N 93rd Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-02-26"
+ },
+ {
+   "Address.1st.Line": "2152 McCulloch Blvd N #C",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-02-27"
+ },
+ {
+   "Address.1st.Line": "4543 E Barbarita Ct",
+   "City": "Gilbert",
+   "Date to Approach": "2019-02-28"
+ },
+ {
+   "Address.1st.Line": "PO Box 12704",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-01"
+ },
+ {
+   "Address.1st.Line": "705 W Queen Creek Rd #1118",
+   "City": "Chandler",
+   "Date to Approach": "2019-03-02"
+ },
+ {
+   "Address.1st.Line": "4801 W. El Cortez Place",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-03"
+ },
+ {
+   "Address.1st.Line": "14692 N Frank Lloyd Wright",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-04"
+ },
+ {
+   "Address.1st.Line": "2700 Fry Blvd  #B-9",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-03-05"
+ },
+ {
+   "Address.1st.Line": "4800 E. Tomahawk Trl",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-03-06"
+ },
+ {
+   "Address.1st.Line": "2277 Swanson Ave  #E",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-03-07"
+ },
+ {
+   "Address.1st.Line": "13735 E Colombine Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-08"
+ },
+ {
+   "Address.1st.Line": "3226 N. Miller Rd.,Ste-3",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-09"
+ },
+ {
+   "Address.1st.Line": "7031 E. Camelback #444",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-10"
+ },
+ {
+   "Address.1st.Line": "14269 N 87th St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-11"
+ },
+ {
+   "Address.1st.Line": "270 E Hunt Hwy",
+   "City": "San Tan Valley",
+   "Date to Approach": "2019-03-12"
+ },
+ {
+   "Address.1st.Line": "7525 E Gainey Ranch Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-13"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 12820",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-14"
+ },
+ {
+   "Address.1st.Line": "13641 N 49th St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-15"
+ },
+ {
+   "Address.1st.Line": "5302 E Poinsettia Drive",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-16"
+ },
+ {
+   "Address.1st.Line": "2512 E. Vistoso Commerce Loop",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-03-17"
+ },
+ {
+   "Address.1st.Line": "7349 E Via Estrella Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-18"
+ },
+ {
+   "Address.1st.Line": "7054 E. Cochise, Suite B-115",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-19"
+ },
+ {
+   "Address.1st.Line": "105 North Roadrunner Dr. #2",
+   "City": "Sedona",
+   "Date to Approach": "2019-03-20"
+ },
+ {
+   "Address.1st.Line": "5505 W Buckskin Trl",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-21"
+ },
+ {
+   "Address.1st.Line": "1170 W. Shoal Creek Ln",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-03-22"
+ },
+ {
+   "Address.1st.Line": "5750 E. 6th St.",
+   "City": "Tucson",
+   "Date to Approach": "2019-03-23"
+ },
+ {
+   "Address.1st.Line": "32531 N Scottsdale Road",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-24"
+ },
+ {
+   "Address.1st.Line": "7878 E Gainey Ranch Rd #36",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-25"
+ },
+ {
+   "Address.1st.Line": "80 S. Acoma Blvd., Ste D102",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-03-26"
+ },
+ {
+   "Address.1st.Line": "6220 E. Huntress Dr.",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-03-27"
+ },
+ {
+   "Address.1st.Line": "10785 N Oracle Rd",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-03-28"
+ },
+ {
+   "Address.1st.Line": "7600 E. Camelback #5",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-29"
+ },
+ {
+   "Address.1st.Line": "762 N. Country Club Rd.",
+   "City": "Tucson",
+   "Date to Approach": "2019-03-30"
+ },
+ {
+   "Address.1st.Line": "3301 N. Miller Rd., Ste 151",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-31"
+ },
+ {
+   "Address.1st.Line": "14500 N. Northsight Blvd., Ste 112",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-01"
+ },
+ {
+   "Address.1st.Line": "8415 N Pima Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-02"
+ },
+ {
+   "Address.1st.Line": "8040 E Indian School Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-03"
+ },
+ {
+   "Address.1st.Line": "34597 N 60th St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-04"
+ },
+ {
+   "Address.1st.Line": "6820 E. Moreland St.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-05"
+ },
+ {
+   "Address.1st.Line": "9070 E Desert Cove Ave., Ste-105",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-06"
+ },
+ {
+   "Address.1st.Line": "16101 N 82nd St  #A-8",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-07"
+ },
+ {
+   "Address.1st.Line": "8708 E. San Marcos Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-08"
+ },
+ {
+   "Address.1st.Line": "4875 S Quiet Way",
+   "City": "Gilbert",
+   "Date to Approach": "2019-04-09"
+ },
+ {
+   "Address.1st.Line": "1961 N. Hartford Street Unit 1212",
+   "City": "Chandler",
+   "Date to Approach": "2019-04-10"
+ },
+ {
+   "Address.1st.Line": "515 N. Tucson Blvd.",
+   "City": "Tucson",
+   "Date to Approach": "2019-04-11"
+ },
+ {
+   "Address.1st.Line": "16022 N. 63rd St.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-12"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 3287",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-04-13"
+ },
+ {
+   "Address.1st.Line": "8112 N 87th Pl",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-14"
+ },
+ {
+   "Address.1st.Line": "5420 East Sandra Terrace",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-15"
+ },
+ {
+   "Address.1st.Line": "16620 N. 40th St., Ste H-1",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-16"
+ },
+ {
+   "Address.1st.Line": "5916 E. Caballo Dr.",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-04-17"
+ },
+ {
+   "Address.1st.Line": "726 N Greenfield",
+   "City": "Gilbert",
+   "Date to Approach": "2019-04-18"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 6218",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-19"
+ },
+ {
+   "Address.1st.Line": "3045 E Roland St",
+   "City": "Mesa",
+   "Date to Approach": "2019-04-20"
+ },
+ {
+   "Address.1st.Line": "10630 N Scottsdale Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-21"
+ },
+ {
+   "Address.1st.Line": "3038 E. Bellflower Dr.",
+   "City": "Gilbert",
+   "Date to Approach": "2019-04-22"
+ },
+ {
+   "Address.1st.Line": "9070 E. Desert Cove  A-101",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-23"
+ },
+ {
+   "Address.1st.Line": "2973 North Benson Lane",
+   "City": "Chandler",
+   "Date to Approach": "2019-04-24"
+ },
+ {
+   "Address.1st.Line": "18212 N 92nd St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-25"
+ },
+ {
+   "Address.1st.Line": "9741 N. 90th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-26"
+ },
+ {
+   "Address.1st.Line": "910 W Park Ridge Dr",
+   "City": "Sedona",
+   "Date to Approach": "2019-04-27"
+ },
+ {
+   "Address.1st.Line": "9825 E. Bell Rd. #140",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-28"
+ },
+ {
+   "Address.1st.Line": "11788 E Wethersfield Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-29"
+ },
+ {
+   "Address.1st.Line": "4342 Bryn Mawr Rd.",
+   "City": "Tucson",
+   "Date to Approach": "2019-04-30"
+ },
+ {
+   "Address.1st.Line": "11222 N 55th St.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-01"
+ },
+ {
+   "Address.1st.Line": "20701 N Scottsdale Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-02"
+ },
+ {
+   "Address.1st.Line": "14201 N. Hayden Rd., Ste D-3",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-03"
+ },
+ {
+   "Address.1st.Line": "8322 E. Virginia Ave.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-04"
+ },
+ {
+   "Address.1st.Line": "1601 Paseo San Luis, Ste-103",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-05-05"
+ },
+ {
+   "Address.1st.Line": "9550 E. Larkspur Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-06"
+ },
+ {
+   "Address.1st.Line": "8753 E Bell Rd Ste 101",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-07"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 6157",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-08"
+ },
+ {
+   "Address.1st.Line": "6035 E Clinton St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-09"
+ },
+ {
+   "Address.1st.Line": "1989 S Frontage Rd Highway 92",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-05-10"
+ },
+ {
+   "Address.1st.Line": "11119 N Divot Dr",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-05-11"
+ },
+ {
+   "Address.1st.Line": "7450 E. Pinnacle Peak Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-12"
+ },
+ {
+   "Address.1st.Line": "7920 E. Camelback #605",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-13"
+ },
+ {
+   "Address.1st.Line": "6868 E. Becker Ln., Ste 101",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-14"
+ },
+ {
+   "Address.1st.Line": "7119 E. Shea #106-142",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-15"
+ },
+ {
+   "Address.1st.Line": "8952 E Desert Cove Ste 108",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-16"
+ },
+ {
+   "Address.1st.Line": "11912 N 120th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-17"
+ },
+ {
+   "Address.1st.Line": "29685 N 77th Pl",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-18"
+ },
+ {
+   "Address.1st.Line": "5816 N 23rd St.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-19"
+ },
+ {
+   "Address.1st.Line": "2120 W Guadalupe Rd #5",
+   "City": "Mesa",
+   "Date to Approach": "2019-05-20"
+ },
+ {
+   "Address.1st.Line": "14500 N. Northsight Blvd., Ste 112",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-21"
+ },
+ {
+   "Address.1st.Line": "9742 E. Friess Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-22"
+ },
+ {
+   "Address.1st.Line": "13038 E. Corrine Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-23"
+ },
+ {
+   "Address.1st.Line": "13124 N 94th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-24"
+ },
+ {
+   "Address.1st.Line": "4848 North Goldwater Blvd #4053",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-25"
+ },
+ {
+   "Address.1st.Line": "18650 N Thompson Pk Pkwy #2010",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-26"
+ },
+ {
+   "Address.1st.Line": "8883 E. Mountain Spring Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-27"
+ },
+ {
+   "Address.1st.Line": "7713 E Vista Drive",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-28"
+ },
+ {
+   "Address.1st.Line": "11445 E Via Linda #2-180",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-29"
+ },
+ {
+   "Address.1st.Line": "4255 East Claremont",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-05-30"
+ },
+ {
+   "Address.1st.Line": "825 N Grand Ave, Suite 100",
+   "City": "Nogales",
+   "Date to Approach": "2019-05-31"
+ },
+ {
+   "Address.1st.Line": "7373 N. Scottsdale Road, Suite A-220",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-01"
+ },
+ {
+   "Address.1st.Line": "4910 E. Greenway Rd, Ste. 2",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-02"
+ },
+ {
+   "Address.1st.Line": "28 E. McCullough Dr.",
+   "City": "Sedona",
+   "Date to Approach": "2019-06-03"
+ },
+ {
+   "Address.1st.Line": "7955 E Chaparral Rd Unit 27",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-04"
+ },
+ {
+   "Address.1st.Line": "14214 N 57th Pl",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-05"
+ },
+ {
+   "Address.1st.Line": "7737 E. Indian School",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-06"
+ },
+ {
+   "Address.1st.Line": "8326 E. Carol Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-07"
+ },
+ {
+   "Address.1st.Line": "6126 E. Danbury",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-08"
+ },
+ {
+   "Address.1st.Line": "7500 E. Pinnacle Peak Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-09"
+ },
+ {
+   "Address.1st.Line": "3372 W. Barcelona Dr.",
+   "City": "Chandler",
+   "Date to Approach": "2019-06-10"
+ },
+ {
+   "Address.1st.Line": "6735 E Greenway Pkwy #2039",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-11"
+ },
+ {
+   "Address.1st.Line": "7733 E Journey Ln",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-12"
+ },
+ {
+   "Address.1st.Line": "2929 N 70th St., #2019",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-13"
+ },
+ {
+   "Address.1st.Line": "20801 N. Scottsdale Rd., Ste 209",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-14"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 5764",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-15"
+ },
+ {
+   "Address.1st.Line": "12162 N Rancho Vistoso Blvd #140",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-06-16"
+ },
+ {
+   "Address.1st.Line": "9787 N 91st St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-17"
+ },
+ {
+   "Address.1st.Line": "PO Box 2524",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-18"
+ },
+ {
+   "Address.1st.Line": "1618 E Bell Rd  #108",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-19"
+ },
+ {
+   "Address.1st.Line": "6501 E. Greenway Pkwy. Bldg. #6, Ste. #161",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-20"
+ },
+ {
+   "Address.1st.Line": "5228 E Angela Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-21"
+ },
+ {
+   "Address.1st.Line": "7054 E Cochise",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-22"
+ },
+ {
+   "Address.1st.Line": "8432 E. La Senda",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-23"
+ },
+ {
+   "Address.1st.Line": "7355E Thompson Peak Pkwy",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-24"
+ },
+ {
+   "Address.1st.Line": "6140 E. Lafayette Blvd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-25"
+ },
+ {
+   "Address.1st.Line": "1900 Paseo San Luis",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-06-26"
+ },
+ {
+   "Address.1st.Line": "10290 N. 92nd St. Ste 204",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-27"
+ },
+ {
+   "Address.1st.Line": "10120 E. Buckskin Trail",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-28"
+ },
+ {
+   "Address.1st.Line": "7701 E Osborn Rd., Apt-180 W",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-29"
+ },
+ {
+   "Address.1st.Line": "19700 N 76th St #2122",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-30"
+ },
+ {
+   "Address.1st.Line": "6560 State Route 179, Ste 202",
+   "City": "Sedona",
+   "Date to Approach": "2019-07-01"
+ },
+ {
+   "Address.1st.Line": "4875 S Quiet Way",
+   "City": "Gilbert",
+   "Date to Approach": "2019-07-02"
+ },
+ {
+   "Address.1st.Line": "2042 E Desert Inn Dr",
+   "City": "Chandler",
+   "Date to Approach": "2019-07-03"
+ },
+ {
+   "Address.1st.Line": "16826 N 60th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-04"
+ },
+ {
+   "Address.1st.Line": "6815 E. Wildcat Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-05"
+ },
+ {
+   "Address.1st.Line": "4416 N. Scottsdale Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-06"
+ },
+ {
+   "Address.1st.Line": "9731 E Sutton Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-07"
+ },
+ {
+   "Address.1st.Line": "8149 E. Cortez Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-08"
+ },
+ {
+   "Address.1st.Line": "8201 N Via De Lago",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-09"
+ },
+ {
+   "Address.1st.Line": "17940 N 93rd St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-10"
+ },
+ {
+   "Address.1st.Line": "5250 E. Orchid Ln.",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-07-11"
+ },
+ {
+   "Address.1st.Line": "5501 East Emile Zola Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-12"
+ },
+ {
+   "Address.1st.Line": "7362 E. Del Acero Drive",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-13"
+ },
+ {
+   "Address.1st.Line": "7439 E. Earll Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-14"
+ },
+ {
+   "Address.1st.Line": "2741 El Dorado Ave N #101",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-07-15"
+ },
+ {
+   "Address.1st.Line": "715 W Citrus Way",
+   "City": "Chandler",
+   "Date to Approach": "2019-07-16"
+ },
+ {
+   "Address.1st.Line": "5705 N Scottsdale Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-17"
+ },
+ {
+   "Address.1st.Line": "5915 E. Vernon",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-18"
+ },
+ {
+   "Address.1st.Line": "7767 E. Via Del Futuro",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-19"
+ },
+ {
+   "Address.1st.Line": "9304 E. Raintree Drive #130",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-20"
+ },
+ {
+   "Address.1st.Line": "1146 W State Route 89A  #A",
+   "City": "Sedona",
+   "Date to Approach": "2019-07-21"
+ },
+ {
+   "Address.1st.Line": "1939 McCulloch Blvd  #2",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-07-22"
+ },
+ {
+   "Address.1st.Line": "9250 N 3rd St Suite 2010",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-23"
+ },
+ {
+   "Address.1st.Line": "10866 E. Cosmos Circle",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-24"
+ },
+ {
+   "Address.1st.Line": "7846 E Vista Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-25"
+ },
+ {
+   "Address.1st.Line": "11512 N. 131st Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-26"
+ },
+ {
+   "Address.1st.Line": "2925 East Riggs Road",
+   "City": "Chandler",
+   "Date to Approach": "2019-07-27"
+ },
+ {
+   "Address.1st.Line": "5001 E. Desert Jewel Dr.",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-07-28"
+ },
+ {
+   "Address.1st.Line": "7551 E. Golden Eagle Cir.",
+   "City": "Superstition Mtn",
+   "Date to Approach": "2019-07-29"
+ },
+ {
+   "Address.1st.Line": "8595 E Bell Rd Ste D100",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-30"
+ },
+ {
+   "Address.1st.Line": "25803 North 115th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-31"
+ },
+ {
+   "Address.1st.Line": "8753 E Bell Rd Ste 101",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-01"
+ },
+ {
+   "Address.1st.Line": "1109 E. State Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-02"
+ },
+ {
+   "Address.1st.Line": "3031 N Civic Center Plaza",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-03"
+ },
+ {
+   "Address.1st.Line": "4141 E Lakeside Lane",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-08-04"
+ },
+ {
+   "Address.1st.Line": "10661 N Frank Lloyd Wright Blvd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-05"
+ },
+ {
+   "Address.1st.Line": "240 W Osborn Rd  #225",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-06"
+ },
+ {
+   "Address.1st.Line": "20 Cobarn Court",
+   "City": "Sedona",
+   "Date to Approach": "2019-08-07"
+ },
+ {
+   "Address.1st.Line": "11617 E Onyx Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-08"
+ },
+ {
+   "Address.1st.Line": "57 E Monterey Way",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-09"
+ },
+ {
+   "Address.1st.Line": "11500 E. Caribbean Ln.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-10"
+ },
+ {
+   "Address.1st.Line": "2580 N. Kiowa Blvd.",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-08-11"
+ },
+ {
+   "Address.1st.Line": "9950 E. Acacia Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-12"
+ },
+ {
+   "Address.1st.Line": "9353 E. Altadena Ave.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-13"
+ },
+ {
+   "Address.1st.Line": "8537 E Los Gatos Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-14"
+ },
+ {
+   "Address.1st.Line": "16226 N Cave Creek Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-15"
+ },
+ {
+   "Address.1st.Line": "15210 N Scottsdale Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-16"
+ },
+ {
+   "Address.1st.Line": "3226 N. Miller Rd.,Ste-3",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-17"
+ },
+ {
+   "Address.1st.Line": "6400 E Thomas Rd., #3025",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-18"
+ },
+ {
+   "Address.1st.Line": "1715 E. Palmaire Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-19"
+ },
+ {
+   "Address.1st.Line": "10663 E Monument Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-20"
+ },
+ {
+   "Address.1st.Line": "7083 E. Eagle Feather Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-21"
+ },
+ {
+   "Address.1st.Line": "11243 N 51st St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-22"
+ },
+ {
+   "Address.1st.Line": "5533 E Bell Rd #115-B",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-23"
+ },
+ {
+   "Address.1st.Line": "9097 E Desert Cove Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-24"
+ },
+ {
+   "Address.1st.Line": "5512 North 6th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-25"
+ },
+ {
+   "Address.1st.Line": "6819 E. Winchcomb Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-26"
+ },
+ {
+   "Address.1st.Line": "10814 N 71st Pl",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-27"
+ },
+ {
+   "Address.1st.Line": "25884 N 113th Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-28"
+ },
+ {
+   "Address.1st.Line": "14673 N 100th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-29"
+ },
+ {
+   "Address.1st.Line": "2964 E. Longhorn Dr.",
+   "City": "Gilbert",
+   "Date to Approach": "2019-08-30"
+ },
+ {
+   "Address.1st.Line": "1840 E Innovation Park Dr",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-08-31"
+ },
+ {
+   "Address.1st.Line": "8573 E Princess Dr., Ste 201",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-01"
+ },
+ {
+   "Address.1st.Line": "7137 E. Rancho Vista Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-02"
+ },
+ {
+   "Address.1st.Line": "7127 E. Rancho Vista Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-03"
+ },
+ {
+   "Address.1st.Line": "4629 S Pueblo Ave",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-09-04"
+ },
+ {
+   "Address.1st.Line": "1680 McCulloch Blvd N",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-09-05"
+ },
+ {
+   "Address.1st.Line": "7301 E. Second St., Ste. 208",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-06"
+ },
+ {
+   "Address.1st.Line": "5423 E Beryl Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-07"
+ },
+ {
+   "Address.1st.Line": "677 E. Wilcox Dr.",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-09-08"
+ },
+ {
+   "Address.1st.Line": "3501 North Scottsdale Rd., Ste 226",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-09"
+ },
+ {
+   "Address.1st.Line": "7500 E. Deer Valley Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-10"
+ },
+ {
+   "Address.1st.Line": "7900 E. Princess Dr. #1054",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-11"
+ },
+ {
+   "Address.1st.Line": "80 W Boxelder Pl",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-09-12"
+ },
+ {
+   "Address.1st.Line": "9755 N. 90th St. #190",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-13"
+ },
+ {
+   "Address.1st.Line": "3030 N 67th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-14"
+ },
+ {
+   "Address.1st.Line": "2202 N 7th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-15"
+ },
+ {
+   "Address.1st.Line": "7601 E 2nd St Apt #11",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-16"
+ },
+ {
+   "Address.1st.Line": "9563 E Monument Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-17"
+ },
+ {
+   "Address.1st.Line": "7222 E. Gainey Ranch Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-18"
+ },
+ {
+   "Address.1st.Line": "11000 N Scottsdale Rd  #140",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-19"
+ },
+ {
+   "Address.1st.Line": "3226 N Miller Rd #2",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-20"
+ },
+ {
+   "Address.1st.Line": "7115 N. 46th Place",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-09-21"
+ },
+ {
+   "Address.1st.Line": "8535 East Hartford Drive",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-22"
+ },
+ {
+   "Address.1st.Line": "20121 N 76th St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-23"
+ },
+ {
+   "Address.1st.Line": "929 W Golden Barrel Ct",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-09-24"
+ },
+ {
+   "Address.1st.Line": "3226 N Miller Rd  #3",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-25"
+ },
+ {
+   "Address.1st.Line": "10304 N Hayden Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-26"
+ },
+ {
+   "Address.1st.Line": "10715 N Frank Lloyd Wright Blvd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-27"
+ },
+ {
+   "Address.1st.Line": "10752 N. 89th Pl., Ste 117",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-28"
+ },
+ {
+   "Address.1st.Line": "7737 E. Indian School Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-29"
+ },
+ {
+   "Address.1st.Line": "8600 E Via De Ventura st 201",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-09-30"
+ },
+ {
+   "Address.1st.Line": "3666 N. Miller Rd., Ste 109",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-01"
+ },
+ {
+   "Address.1st.Line": "4425 N 78th St, Apt 207B",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-02"
+ },
+ {
+   "Address.1st.Line": "130 Granite Mountain Rd",
+   "City": "Sedona",
+   "Date to Approach": "2019-10-03"
+ },
+ {
+   "Address.1st.Line": "11333 N. Scottsdale Rd., Ste 250",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-04"
+ },
+ {
+   "Address.1st.Line": "7737 E. Indian School Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-05"
+ },
+ {
+   "Address.1st.Line": "7425 E Shea Blvd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-06"
+ },
+ {
+   "Address.1st.Line": "10730 N. Oracle Rd",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-10-07"
+ },
+ {
+   "Address.1st.Line": "4400 N. Scottsdale Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-08"
+ },
+ {
+   "Address.1st.Line": "5635 E Bell Rd #1052",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-09"
+ },
+ {
+   "Address.1st.Line": "7638 E. Via Montoya",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-10"
+ },
+ {
+   "Address.1st.Line": "8147 E Evans Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-11"
+ },
+ {
+   "Address.1st.Line": "34597 North 60th Street",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-12"
+ },
+ {
+   "Address.1st.Line": "3136 W Sunnyside Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-13"
+ },
+ {
+   "Address.1st.Line": "10260 N 90th St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-14"
+ },
+ {
+   "Address.1st.Line": "10040 E. Happy Valley Rd. #331",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-15"
+ },
+ {
+   "Address.1st.Line": "5155 North. 16th Street",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-16"
+ },
+ {
+   "Address.1st.Line": "6504 E Nisbet Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-17"
+ },
+ {
+   "Address.1st.Line": "4910 E Greenway Rd #1",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-18"
+ },
+ {
+   "Address.1st.Line": "2601 N Hayden Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-19"
+ },
+ {
+   "Address.1st.Line": "6744 E. Avalon Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-20"
+ },
+ {
+   "Address.1st.Line": "520 Bell Rock Blvd",
+   "City": "Sedona",
+   "Date to Approach": "2019-10-21"
+ },
+ {
+   "Address.1st.Line": "10260 N. 90th St.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-22"
+ },
+ {
+   "Address.1st.Line": "19120 N Pima Rd, Suite 110",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-23"
+ },
+ {
+   "Address.1st.Line": "5001 E. Glenn",
+   "City": "Tucson",
+   "Date to Approach": "2019-10-24"
+ },
+ {
+   "Address.1st.Line": "13449 N Miller Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-25"
+ },
+ {
+   "Address.1st.Line": "6657 N. 79th Pl.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-26"
+ },
+ {
+   "Address.1st.Line": "8591 E Bell Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-27"
+ },
+ {
+   "Address.1st.Line": "7181 E Camelback Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-28"
+ },
+ {
+   "Address.1st.Line": "6920 E Shea Blvd., Ste-201",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-29"
+ },
+ {
+   "Address.1st.Line": "13502 E. Del Timbre Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-30"
+ },
+ {
+   "Address.1st.Line": "10360 E Shangri La Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-31"
+ },
+ {
+   "Address.1st.Line": "1146 W State Route 89A  #C-1",
+   "City": "Sedona",
+   "Date to Approach": "2019-11-01"
+ },
+ {
+   "Address.1st.Line": "8435 E Windsor Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-02"
+ },
+ {
+   "Address.1st.Line": "2872 Jamaica Blvd S",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-11-03"
+ },
+ {
+   "Address.1st.Line": "5610 E. 22nd St.",
+   "City": "Tucson",
+   "Date to Approach": "2019-11-04"
+ },
+ {
+   "Address.1st.Line": "15730 N 83rd Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-05"
+ },
+ {
+   "Address.1st.Line": "5533 E. Bell Rd. #117",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-06"
+ },
+ {
+   "Address.1st.Line": "1669 Emerald Dr.",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-11-07"
+ },
+ {
+   "Address.1st.Line": "7904 E. Chaparral Rd., Ste A109",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-08"
+ },
+ {
+   "Address.1st.Line": "4829 E. Rovey Ave",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-11-09"
+ },
+ {
+   "Address.1st.Line": "9295 E Thunderbird Rd. Ste 104",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-10"
+ },
+ {
+   "Address.1st.Line": "20801 N Scottsdale Rd., #209",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-11"
+ },
+ {
+   "Address.1st.Line": "4294 N. Limberlost Pl.",
+   "City": "Tucson",
+   "Date to Approach": "2019-11-12"
+ },
+ {
+   "Address.1st.Line": "16005 S. 40th Way",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-13"
+ },
+ {
+   "Address.1st.Line": "4836 E Nisbet Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-14"
+ },
+ {
+   "Address.1st.Line": "1035 E. Palmaire Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-15"
+ },
+ {
+   "Address.1st.Line": "7453 E. Windrose Drive",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-16"
+ },
+ {
+   "Address.1st.Line": "8040 E Indian School Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-17"
+ },
+ {
+   "Address.1st.Line": "7500 E. Angus Dr., Ste 2",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-18"
+ },
+ {
+   "Address.1st.Line": "7645 N Oracle Rd #120",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-11-19"
+ },
+ {
+   "Address.1st.Line": "30 Tourmaline Dr.",
+   "City": "Sedona",
+   "Date to Approach": "2019-11-20"
+ },
+ {
+   "Address.1st.Line": "7444 E Rose Garden Ln",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-21"
+ },
+ {
+   "Address.1st.Line": "7425 E. Shea Blvd. #106",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-22"
+ },
+ {
+   "Address.1st.Line": "10855 N. Frank Lloyd Wright Blvd #105",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-23"
+ },
+ {
+   "Address.1st.Line": "2168 McCulloch Blvd. Ste 201",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2019-11-24"
+ },
+ {
+   "Address.1st.Line": "926 East McDowell Road, Ste. 120",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-25"
+ },
+ {
+   "Address.1st.Line": "4525 N 66th St #107",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-26"
+ },
+ {
+   "Address.1st.Line": "4111 N Drinkwater Blvd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-27"
+ },
+ {
+   "Address.1st.Line": "3424 N. 63rd St.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-28"
+ },
+ {
+   "Address.1st.Line": "2630 S Penrose Dr",
+   "City": "Gilbert",
+   "Date to Approach": "2019-11-29"
+ },
+ {
+   "Address.1st.Line": "4111 N Drinkwater Blvd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-30"
+ },
+ {
+   "Address.1st.Line": "6868 E Becker Lane Suite 102",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-01"
+ },
+ {
+   "Address.1st.Line": "14365 E Geronimo Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-02"
+ },
+ {
+   "Address.1st.Line": "2428 N Scottsdale Road",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-03"
+ },
+ {
+   "Address.1st.Line": "4025 W. Bell Rd. #7",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-04"
+ },
+ {
+   "Address.1st.Line": "3842 E. San Miguel",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-12-05"
+ },
+ {
+   "Address.1st.Line": "16841 N. 31st Ave., Ste 140",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-06"
+ },
+ {
+   "Address.1st.Line": "10057 N. 96th Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-07"
+ },
+ {
+   "Address.1st.Line": "16620 N 40th St Ste A-1",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-08"
+ },
+ {
+   "Address.1st.Line": "8404 E Shea Blvd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-09"
+ },
+ {
+   "Address.1st.Line": "2658 W. Highland St",
+   "City": "Chandler",
+   "Date to Approach": "2019-12-10"
+ },
+ {
+   "Address.1st.Line": "9002 E Desert Cove Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-11"
+ },
+ {
+   "Address.1st.Line": "4060 E Lamar Rd",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-12-12"
+ },
+ {
+   "Address.1st.Line": "2895 S Alma School Rd",
+   "City": "Chandler",
+   "Date to Approach": "2019-12-13"
+ },
+ {
+   "Address.1st.Line": "6501 E Greenway Pky., Bldg #3 Ste-101",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-14"
+ },
+ {
+   "Address.1st.Line": "10048 N 57th St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-15"
+ },
+ {
+   "Address.1st.Line": "13138 E Jenan Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-16"
+ },
+ {
+   "Address.1st.Line": "9642 E Pine Valley Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-17"
+ },
+ {
+   "Address.1st.Line": "150 S. Highway 69 #F-9",
+   "City": "Dewey",
+   "Date to Approach": "2019-12-18"
+ },
+ {
+   "Address.1st.Line": "6945 E Sahuaro Dr. B-2",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-19"
+ },
+ {
+   "Address.1st.Line": "6945 E. Sahuaro Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-20"
+ },
+ {
+   "Address.1st.Line": "20362 N 96th Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-21"
+ },
+ {
+   "Address.1st.Line": "26550 N. 86th St",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-22"
+ },
+ {
+   "Address.1st.Line": "9101 N. 109th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-23"
+ },
+ {
+   "Address.1st.Line": "1240 W Southern Ave",
+   "City": "Mesa",
+   "Date to Approach": "2019-12-24"
+ },
+ {
+   "Address.1st.Line": "3030 N 67th Pl",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-25"
+ },
+ {
+   "Address.1st.Line": "2815 E Ocotillo Rd",
+   "City": "Chandler",
+   "Date to Approach": "2019-12-26"
+ },
+ {
+   "Address.1st.Line": "7006 E. Shooting Star Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-27"
+ },
+ {
+   "Address.1st.Line": "24350 N Whispering Ridge Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-28"
+ },
+ {
+   "Address.1st.Line": "6839 E. Montecito Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-29"
+ },
+ {
+   "Address.1st.Line": "3803 E Canyon Pl",
+   "City": "Chandler",
+   "Date to Approach": "2019-12-30"
+ },
+ {
+   "Address.1st.Line": "3507 N. 62nd Pl.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-12-31"
+ },
+ {
+   "Address.1st.Line": "2580 N. Kiowa Blvd.",
+   "City": "Lake Havasu City",
+   "Date to Approach": "2020-01-01"
+ },
+ {
+   "Address.1st.Line": "8738 East Whispering Wind Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-02"
+ },
+ {
+   "Address.1st.Line": "1729 Paseo San Luis",
+   "City": "Sierra Vista",
+   "Date to Approach": "2020-01-03"
+ },
+ {
+   "Address.1st.Line": "8438 E Shea Blvd., Ste-100",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-04"
+ },
+ {
+   "Address.1st.Line": "7054 E. Cochise Rd. B115",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-05"
+ },
+ {
+   "Address.1st.Line": "11451 E Sweetwater Ave",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-06"
+ },
+ {
+   "Address.1st.Line": "7032 E Cochise Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-07"
+ },
+ {
+   "Address.1st.Line": "8827 N Invergordon Rd",
+   "City": "Paradise Valley",
+   "Date to Approach": "2020-01-08"
+ },
+ {
+   "Address.1st.Line": "18002 N 52nd Pl",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-09"
+ },
+ {
+   "Address.1st.Line": "2601 N Hayden Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-10"
+ },
+ {
+   "Address.1st.Line": "11221 E Greenway Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-11"
+ },
+ {
+   "Address.1st.Line": "10132 E Cinnabar",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-12"
+ },
+ {
+   "Address.1st.Line": "12674 E. Poinsettia Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-13"
+ },
+ {
+   "Address.1st.Line": "290 S. Alma School Rd.",
+   "City": "Chandler",
+   "Date to Approach": "2020-01-14"
+ },
+ {
+   "Address.1st.Line": "7449 E. Osborn Rd.",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-15"
+ },
+ {
+   "Address.1st.Line": "5190 E. Farness #102",
+   "City": "Tucson",
+   "Date to Approach": "2020-01-16"
+ },
+ {
+   "Address.1st.Line": "77 East Missouri Ave #33",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-17"
+ },
+ {
+   "Address.1st.Line": "34597 N. 60th St., #103",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-18"
+ },
+ {
+   "Address.1st.Line": "5721 E. Windsor",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-19"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 6474",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-20"
+ },
+ {
+   "Address.1st.Line": "8600 Via Ventura #201",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-21"
+ },
+ {
+   "Address.1st.Line": "8591 E Bell Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-22"
+ },
+ {
+   "Address.1st.Line": "8449 E. Woodland Rd.",
+   "City": "Tucson",
+   "Date to Approach": "2020-01-23"
+ },
+ {
+   "Address.1st.Line": "6920 E Shea Blvd., Ste-201",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-24"
+ },
+ {
+   "Address.1st.Line": "4385 N. 75th Str., #203",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-25"
+ },
+ {
+   "Address.1st.Line": "1700 W American Avenue",
+   "City": "Oracle",
+   "Date to Approach": "2020-01-26"
+ },
+ {
+   "Address.1st.Line": "7301 4th St. #5",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-27"
+ },
+ {
+   "Address.1st.Line": "6945 E Saguaro Dr A-3",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-28"
+ },
+ {
+   "Address.1st.Line": "7000 E Shea Blvd",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-29"
+ },
+ {
+   "Address.1st.Line": "8765 E. Bell Rd. #201",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-30"
+ },
+ {
+   "Address.1st.Line": "5425 E Bell Rd #101",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-31"
+ }
+]

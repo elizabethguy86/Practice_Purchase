@@ -1,0 +1,1827 @@
+[
+ {
+   "Address.1st.Line": "20950 N Tatum Blvd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-01"
+ },
+ {
+   "Address.1st.Line": "409 W. Main Street",
+   "City": "Payson",
+   "Date to Approach": "2019-02-02"
+ },
+ {
+   "Address.1st.Line": "1415 N Rockridge Rd",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-02-03"
+ },
+ {
+   "Address.1st.Line": "1746 E. Oquitoa Dr.",
+   "City": "Casa Grande",
+   "Date to Approach": "2019-02-04"
+ },
+ {
+   "Address.1st.Line": "15444 W Coolidge St",
+   "City": "Goodyear",
+   "Date to Approach": "2019-02-05"
+ },
+ {
+   "Address.1st.Line": "4338 W Thomas Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-06"
+ },
+ {
+   "Address.1st.Line": "1423 N 16th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-07"
+ },
+ {
+   "Address.1st.Line": "6420 W Black Hill Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-08"
+ },
+ {
+   "Address.1st.Line": "267 E Bell Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-09"
+ },
+ {
+   "Address.1st.Line": "4210 N 32nd St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-10"
+ },
+ {
+   "Address.1st.Line": "855 E Warner Rd., Ste. 104",
+   "City": "Chandler",
+   "Date to Approach": "2019-02-11"
+ },
+ {
+   "Address.1st.Line": "2334 W. Jake Hvn",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-12"
+ },
+ {
+   "Address.1st.Line": "710 W. Butler Dr.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-13"
+ },
+ {
+   "Address.1st.Line": "613 W. Ocotillo Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-14"
+ },
+ {
+   "Address.1st.Line": "14150 W McDowell Road",
+   "City": "Goodyear",
+   "Date to Approach": "2019-02-15"
+ },
+ {
+   "Address.1st.Line": "6520 N. 7th Ave. #7",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-16"
+ },
+ {
+   "Address.1st.Line": "2011 W Harrison St",
+   "City": "Chandler",
+   "Date to Approach": "2019-02-17"
+ },
+ {
+   "Address.1st.Line": "15730 W. Vernon Ave.",
+   "City": "Goodyear",
+   "Date to Approach": "2019-02-18"
+ },
+ {
+   "Address.1st.Line": "8116 N 18th Place",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-19"
+ },
+ {
+   "Address.1st.Line": "702 E. Bell Rd., Ste 118",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-20"
+ },
+ {
+   "Address.1st.Line": "717 W Glendale Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-21"
+ },
+ {
+   "Address.1st.Line": "10265 W Camelback Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-22"
+ },
+ {
+   "Address.1st.Line": "4400 North 32nd St., Ste 100",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-23"
+ },
+ {
+   "Address.1st.Line": "14231 W, Windward Ave.",
+   "City": "Goodyear",
+   "Date to Approach": "2019-02-24"
+ },
+ {
+   "Address.1st.Line": "2210 N 11th Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-25"
+ },
+ {
+   "Address.1st.Line": "4718 E. Arcadia Lane",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-26"
+ },
+ {
+   "Address.1st.Line": "202 W Linger Lane",
+   "City": "Phoenix",
+   "Date to Approach": "2019-02-27"
+ },
+ {
+   "Address.1st.Line": "5850 E Still Circle",
+   "City": "Mesa",
+   "Date to Approach": "2019-02-28"
+ },
+ {
+   "Address.1st.Line": "7126 N. 13th St.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-01"
+ },
+ {
+   "Address.1st.Line": "5162 N. 45th Place",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-02"
+ },
+ {
+   "Address.1st.Line": "1321 W. Tee Up Way",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-03-03"
+ },
+ {
+   "Address.1st.Line": "12618 S 38th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-04"
+ },
+ {
+   "Address.1st.Line": "824 W Birch Ave",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-03-05"
+ },
+ {
+   "Address.1st.Line": "2755 S 99th Ave #105",
+   "City": "Tolleson",
+   "Date to Approach": "2019-03-06"
+ },
+ {
+   "Address.1st.Line": "7018 N. 3rd Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-07"
+ },
+ {
+   "Address.1st.Line": "PO Box 5962",
+   "City": "Goodyear",
+   "Date to Approach": "2019-03-08"
+ },
+ {
+   "Address.1st.Line": "515 E Stella Ln",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-09"
+ },
+ {
+   "Address.1st.Line": "4376 E. Coolbrook Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-10"
+ },
+ {
+   "Address.1st.Line": "2906 E. Minnezona Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-11"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 56116",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-12"
+ },
+ {
+   "Address.1st.Line": "7227 N. Dreamy Draw Dr., Ste 1",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-13"
+ },
+ {
+   "Address.1st.Line": "4035 E. Indian School Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-14"
+ },
+ {
+   "Address.1st.Line": "839 S. Rochester",
+   "City": "Mesa",
+   "Date to Approach": "2019-03-15"
+ },
+ {
+   "Address.1st.Line": "4015 N. 15th Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-16"
+ },
+ {
+   "Address.1st.Line": "41914 N La Cantera Dr.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-17"
+ },
+ {
+   "Address.1st.Line": "702 E Bell Rd  #116",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-18"
+ },
+ {
+   "Address.1st.Line": "10828 N Biltmore Dr  #160",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-19"
+ },
+ {
+   "Address.1st.Line": "3235 S Salt Cedar Ct",
+   "City": "Chandler",
+   "Date to Approach": "2019-03-20"
+ },
+ {
+   "Address.1st.Line": "6337 Dusty Coyote  Circle",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-21"
+ },
+ {
+   "Address.1st.Line": "2335 E Carol Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-22"
+ },
+ {
+   "Address.1st.Line": "2033 W. Carol Ann Way",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-23"
+ },
+ {
+   "Address.1st.Line": "50 W. Greenock Dr.",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-03-24"
+ },
+ {
+   "Address.1st.Line": "6206 N 22nd Dr.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-25"
+ },
+ {
+   "Address.1st.Line": "8622 S 30th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-26"
+ },
+ {
+   "Address.1st.Line": "9393 N. 90th St.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-03-27"
+ },
+ {
+   "Address.1st.Line": "2511 E. Lamar Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-28"
+ },
+ {
+   "Address.1st.Line": "6520 N. 7th Ave., Ste 3",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-29"
+ },
+ {
+   "Address.1st.Line": "36510 N 29th Ln",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-30"
+ },
+ {
+   "Address.1st.Line": "717 W. Glendale Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-03-31"
+ },
+ {
+   "Address.1st.Line": "14231 N 7th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-01"
+ },
+ {
+   "Address.1st.Line": "6831 S Central Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-02"
+ },
+ {
+   "Address.1st.Line": "29680 N 77th Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-03"
+ },
+ {
+   "Address.1st.Line": "1641 W Glendale  #B",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-04"
+ },
+ {
+   "Address.1st.Line": "20765 N 83rd Place",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-05"
+ },
+ {
+   "Address.1st.Line": "4530 E Ray Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-06"
+ },
+ {
+   "Address.1st.Line": "3855 E Expedition Way",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-07"
+ },
+ {
+   "Address.1st.Line": "642 E. Hearn Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-08"
+ },
+ {
+   "Address.1st.Line": "7327 E Thomas Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-09"
+ },
+ {
+   "Address.1st.Line": "77 W. Forest Ave., #107",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-04-10"
+ },
+ {
+   "Address.1st.Line": "4950 E Elliot Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-11"
+ },
+ {
+   "Address.1st.Line": "4264 E. Desert Cove",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-12"
+ },
+ {
+   "Address.1st.Line": "1660 South State Route 260",
+   "City": "Cottonwood",
+   "Date to Approach": "2019-04-13"
+ },
+ {
+   "Address.1st.Line": "5200 E. Cortland Blvd. #C-4",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-04-14"
+ },
+ {
+   "Address.1st.Line": "702 E Bell Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-15"
+ },
+ {
+   "Address.1st.Line": "2891 Hansen Ln",
+   "City": "Lakeside",
+   "Date to Approach": "2019-04-16"
+ },
+ {
+   "Address.1st.Line": "4622 North 40th Street",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-17"
+ },
+ {
+   "Address.1st.Line": "9304 E Raintree Dr Suite 130",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-04-18"
+ },
+ {
+   "Address.1st.Line": "8120 N. Dreamy Draw Dr.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-19"
+ },
+ {
+   "Address.1st.Line": "19007 North 71st Lane",
+   "City": "Glendale",
+   "Date to Approach": "2019-04-20"
+ },
+ {
+   "Address.1st.Line": "4226 W. Dailey",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-21"
+ },
+ {
+   "Address.1st.Line": "1950 W. Indian School Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-22"
+ },
+ {
+   "Address.1st.Line": "4700 N. 51st Ave., Ste. 3",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-23"
+ },
+ {
+   "Address.1st.Line": "3114 E Cat Balue Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-24"
+ },
+ {
+   "Address.1st.Line": "15215 S. 48th St., Bldg 7, Ste 175",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-25"
+ },
+ {
+   "Address.1st.Line": "10211 N. 32nd St., #C-1",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-26"
+ },
+ {
+   "Address.1st.Line": "2820 E Branham Lane",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-27"
+ },
+ {
+   "Address.1st.Line": "15640 N 7th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-04-28"
+ },
+ {
+   "Address.1st.Line": "624 W Gilmore St",
+   "City": "Winslow",
+   "Date to Approach": "2019-04-29"
+ },
+ {
+   "Address.1st.Line": "2700 Woodlands Village Blvd., Ste 390",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-04-30"
+ },
+ {
+   "Address.1st.Line": "2610 E Osborn Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-01"
+ },
+ {
+   "Address.1st.Line": "938 E. Lois Lane",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-02"
+ },
+ {
+   "Address.1st.Line": "702 E. Bell Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-03"
+ },
+ {
+   "Address.1st.Line": "9010 S Priest Dr",
+   "City": "Tempe",
+   "Date to Approach": "2019-05-04"
+ },
+ {
+   "Address.1st.Line": "5205 Vista Overlook Trl",
+   "City": "Prescott",
+   "Date to Approach": "2019-05-05"
+ },
+ {
+   "Address.1st.Line": "2010 E Vista Avenue",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-06"
+ },
+ {
+   "Address.1st.Line": "712 N. Beeline",
+   "City": "Payson",
+   "Date to Approach": "2019-05-07"
+ },
+ {
+   "Address.1st.Line": "4604 E. Rockridge Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-08"
+ },
+ {
+   "Address.1st.Line": "3811 N. 27th Ave. #51",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-09"
+ },
+ {
+   "Address.1st.Line": "2826 N 151st Ave",
+   "City": "Goodyear",
+   "Date to Approach": "2019-05-10"
+ },
+ {
+   "Address.1st.Line": "4855 E. Warner Rd., Suite B-9",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-11"
+ },
+ {
+   "Address.1st.Line": "4905 East Kirkland Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-12"
+ },
+ {
+   "Address.1st.Line": "3143 N 32nd St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-13"
+ },
+ {
+   "Address.1st.Line": "4235 N. 32nd St. #B",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-14"
+ },
+ {
+   "Address.1st.Line": "4855 E Brown Rd",
+   "City": "Mesa",
+   "Date to Approach": "2019-05-15"
+ },
+ {
+   "Address.1st.Line": "3765 N 4th St",
+   "City": "Kingman",
+   "Date to Approach": "2019-05-16"
+ },
+ {
+   "Address.1st.Line": "2320 E Baseline Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-17"
+ },
+ {
+   "Address.1st.Line": "7227 N. Dreamy Draw Dr., Ste 3",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-18"
+ },
+ {
+   "Address.1st.Line": "9436 S. 182nd Ln.",
+   "City": "Goodyear",
+   "Date to Approach": "2019-05-19"
+ },
+ {
+   "Address.1st.Line": "10615 E. Autumn Sage Dr",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-20"
+ },
+ {
+   "Address.1st.Line": "1014 E Canyon Dr",
+   "City": "Payson",
+   "Date to Approach": "2019-05-21"
+ },
+ {
+   "Address.1st.Line": "9201 N 5th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-22"
+ },
+ {
+   "Address.1st.Line": "9598 E Southwind Ln",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-23"
+ },
+ {
+   "Address.1st.Line": "4801 W. Avenida Del Rey",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-24"
+ },
+ {
+   "Address.1st.Line": "3100 N. West St., Ste 100",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-05-25"
+ },
+ {
+   "Address.1st.Line": "550 E. Thomas Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-26"
+ },
+ {
+   "Address.1st.Line": "1645 E Mohawk Ln",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-27"
+ },
+ {
+   "Address.1st.Line": "4212 N. 16th Street",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-28"
+ },
+ {
+   "Address.1st.Line": "717 West Glendale Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-29"
+ },
+ {
+   "Address.1st.Line": "3608 W. Camelback Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-05-30"
+ },
+ {
+   "Address.1st.Line": "9915 E. Bell Road Suite 130",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-05-31"
+ },
+ {
+   "Address.1st.Line": "6345 E. Bell Rd #2",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-01"
+ },
+ {
+   "Address.1st.Line": "9066 N 115th Pl",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-02"
+ },
+ {
+   "Address.1st.Line": "3806 N 3rd St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-03"
+ },
+ {
+   "Address.1st.Line": "4111 N 16th St.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-04"
+ },
+ {
+   "Address.1st.Line": "14402 W Coronado Rd",
+   "City": "Goodyear",
+   "Date to Approach": "2019-06-05"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 32745",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-06"
+ },
+ {
+   "Address.1st.Line": "3201 W Peoria Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-07"
+ },
+ {
+   "Address.1st.Line": "16620 N. 40th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-08"
+ },
+ {
+   "Address.1st.Line": "6900 E Princess Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-09"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 700",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-06-10"
+ },
+ {
+   "Address.1st.Line": "418 N Briarwood",
+   "City": "Payson",
+   "Date to Approach": "2019-06-11"
+ },
+ {
+   "Address.1st.Line": "5225 N. Central Ave Suite 102",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-12"
+ },
+ {
+   "Address.1st.Line": "9455 West Glendale Avenue",
+   "City": "Glendale",
+   "Date to Approach": "2019-06-13"
+ },
+ {
+   "Address.1st.Line": "2229 E McDowell Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-14"
+ },
+ {
+   "Address.1st.Line": "6232 N 7th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-15"
+ },
+ {
+   "Address.1st.Line": "3009 W Yucca St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-16"
+ },
+ {
+   "Address.1st.Line": "5435 W Hobby Horse Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-17"
+ },
+ {
+   "Address.1st.Line": "635 E. Piping Rock Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-18"
+ },
+ {
+   "Address.1st.Line": "P O Box 44071",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-19"
+ },
+ {
+   "Address.1st.Line": "PO Box 5962",
+   "City": "Goodyear",
+   "Date to Approach": "2019-06-20"
+ },
+ {
+   "Address.1st.Line": "16146 W Holly St",
+   "City": "Goodyear",
+   "Date to Approach": "2019-06-21"
+ },
+ {
+   "Address.1st.Line": "700 N Estrella Parkway",
+   "City": "Goodyear",
+   "Date to Approach": "2019-06-22"
+ },
+ {
+   "Address.1st.Line": "180 W Continental Rd",
+   "City": "Green Valley",
+   "Date to Approach": "2019-06-23"
+ },
+ {
+   "Address.1st.Line": "1550 E. Maryland Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-24"
+ },
+ {
+   "Address.1st.Line": "3319 N 163rd Dr",
+   "City": "Goodyear",
+   "Date to Approach": "2019-06-25"
+ },
+ {
+   "Address.1st.Line": "3030 N 3rd St  #900",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-26"
+ },
+ {
+   "Address.1st.Line": "409 W. Main Street",
+   "City": "Payson",
+   "Date to Approach": "2019-06-27"
+ },
+ {
+   "Address.1st.Line": "65 S. Hobson",
+   "City": "Mesa",
+   "Date to Approach": "2019-06-28"
+ },
+ {
+   "Address.1st.Line": "5045 W Baseline Rd",
+   "City": "Laveen",
+   "Date to Approach": "2019-06-29"
+ },
+ {
+   "Address.1st.Line": "6535 W. Camelback Rd. #5",
+   "City": "Phoenix",
+   "Date to Approach": "2019-06-30"
+ },
+ {
+   "Address.1st.Line": "543 W. Tam O'Shanter Dr.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-01"
+ },
+ {
+   "Address.1st.Line": "2836 E Desert Broom Pl",
+   "City": "Chandler",
+   "Date to Approach": "2019-07-02"
+ },
+ {
+   "Address.1st.Line": "PO Box 2740",
+   "City": "Thatcher",
+   "Date to Approach": "2019-07-03"
+ },
+ {
+   "Address.1st.Line": "1277 E Missouri  #201",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-04"
+ },
+ {
+   "Address.1st.Line": "12320 N. 32nd St., Ste 1",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-05"
+ },
+ {
+   "Address.1st.Line": "16226 N. Cave Creek Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-06"
+ },
+ {
+   "Address.1st.Line": "5421 E Calle del Norte",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-07"
+ },
+ {
+   "Address.1st.Line": "1729 Paseo San Luis",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-07-08"
+ },
+ {
+   "Address.1st.Line": "13651 N 35th Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-09"
+ },
+ {
+   "Address.1st.Line": "4205 N 7th Ave Suite 300",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-10"
+ },
+ {
+   "Address.1st.Line": "15850 N 35th Ave  #2",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-11"
+ },
+ {
+   "Address.1st.Line": "5902 E. Calle Tuberia",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-12"
+ },
+ {
+   "Address.1st.Line": "14940 W Indian School Rd #450",
+   "City": "Goodyear",
+   "Date to Approach": "2019-07-13"
+ },
+ {
+   "Address.1st.Line": "1423 N 16th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-14"
+ },
+ {
+   "Address.1st.Line": "3928 E. Crest Ln.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-15"
+ },
+ {
+   "Address.1st.Line": "3806 N. 24th St.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-16"
+ },
+ {
+   "Address.1st.Line": "2525 W Carefree Hwy #154",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-17"
+ },
+ {
+   "Address.1st.Line": "4444 N. 32nd St. #100",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-18"
+ },
+ {
+   "Address.1st.Line": "3318 East Nighthawk Way",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-19"
+ },
+ {
+   "Address.1st.Line": "7227 N. Dreamy Draw Drive, #4",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-20"
+ },
+ {
+   "Address.1st.Line": "37427 N 97th Way",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-21"
+ },
+ {
+   "Address.1st.Line": "20950 N Tatum Blvd #370",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-22"
+ },
+ {
+   "Address.1st.Line": "1635 South Plaza Way",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-07-23"
+ },
+ {
+   "Address.1st.Line": "9434 E. Via Vaquero Dr.",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-07-24"
+ },
+ {
+   "Address.1st.Line": "4344 W. Indian School Rd. #8",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-25"
+ },
+ {
+   "Address.1st.Line": "4417 E. Cortez",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-26"
+ },
+ {
+   "Address.1st.Line": "6712 E Flag Mine Rd",
+   "City": "Kingman",
+   "Date to Approach": "2019-07-27"
+ },
+ {
+   "Address.1st.Line": "105 Roadrunner Dr  Bldg #2",
+   "City": "Sedona",
+   "Date to Approach": "2019-07-28"
+ },
+ {
+   "Address.1st.Line": "7020 N. 55th Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-29"
+ },
+ {
+   "Address.1st.Line": "1646 N. Litchfield Rd., Ste 130",
+   "City": "Goodyear",
+   "Date to Approach": "2019-07-30"
+ },
+ {
+   "Address.1st.Line": "2525 W Carefree Hwy #154",
+   "City": "Phoenix",
+   "Date to Approach": "2019-07-31"
+ },
+ {
+   "Address.1st.Line": "4350 E. Ray Rd., Suite 122",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-01"
+ },
+ {
+   "Address.1st.Line": "26011 N 44th Drive",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-02"
+ },
+ {
+   "Address.1st.Line": "5435 W Hobby Horse Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-03"
+ },
+ {
+   "Address.1st.Line": "1550 E Campbell Ave #4076",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-04"
+ },
+ {
+   "Address.1st.Line": "6205 E. Robles Rd.",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-08-05"
+ },
+ {
+   "Address.1st.Line": "2880 E Germann Rd",
+   "City": "Chandler",
+   "Date to Approach": "2019-08-06"
+ },
+ {
+   "Address.1st.Line": "1402 W Port Au Prince Lane",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-07"
+ },
+ {
+   "Address.1st.Line": "2316 W Bethany Home Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-08"
+ },
+ {
+   "Address.1st.Line": "22717 S. Ellsworth Rd.",
+   "City": "Queen Creek",
+   "Date to Approach": "2019-08-09"
+ },
+ {
+   "Address.1st.Line": "6619 E Caron Dr.",
+   "City": "Paradise Valley",
+   "Date to Approach": "2019-08-10"
+ },
+ {
+   "Address.1st.Line": "3850 Dakota Rd.",
+   "City": "Kingman",
+   "Date to Approach": "2019-08-11"
+ },
+ {
+   "Address.1st.Line": "4119 E. Sells Dr.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-12"
+ },
+ {
+   "Address.1st.Line": "6509 N 29th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-13"
+ },
+ {
+   "Address.1st.Line": "1267 Sunningdale Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-14"
+ },
+ {
+   "Address.1st.Line": "2200 W Bethany Home Rd  #8&9",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-15"
+ },
+ {
+   "Address.1st.Line": "P O Box #2372",
+   "City": "Litchfield Park",
+   "Date to Approach": "2019-08-16"
+ },
+ {
+   "Address.1st.Line": "21155 N 56th St #3026",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-17"
+ },
+ {
+   "Address.1st.Line": "930 N Switzer Canyon Dr",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-08-18"
+ },
+ {
+   "Address.1st.Line": "40704 N Club Pointe Dr",
+   "City": "Anthem",
+   "Date to Approach": "2019-08-19"
+ },
+ {
+   "Address.1st.Line": "3885 S Arizona Ave",
+   "City": "Chandler",
+   "Date to Approach": "2019-08-20"
+ },
+ {
+   "Address.1st.Line": "1550 E Maryland",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-21"
+ },
+ {
+   "Address.1st.Line": "414 S. Beeline Hwy. Ste #5",
+   "City": "Payson",
+   "Date to Approach": "2019-08-22"
+ },
+ {
+   "Address.1st.Line": "25711 N 55th Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-23"
+ },
+ {
+   "Address.1st.Line": "3133 E. Claremont Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-24"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 2383",
+   "City": "Payson",
+   "Date to Approach": "2019-08-25"
+ },
+ {
+   "Address.1st.Line": "9515 West Camelback Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-26"
+ },
+ {
+   "Address.1st.Line": "8415 N Pima Rd",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-08-27"
+ },
+ {
+   "Address.1st.Line": "12020 N 35th Ave  #112",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-28"
+ },
+ {
+   "Address.1st.Line": "3302 E Turquoise Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-29"
+ },
+ {
+   "Address.1st.Line": "2880 West Country Club Drive",
+   "City": "Snowflake",
+   "Date to Approach": "2019-08-30"
+ },
+ {
+   "Address.1st.Line": "4025 W. Bell Rd., Ste 13",
+   "City": "Phoenix",
+   "Date to Approach": "2019-08-31"
+ },
+ {
+   "Address.1st.Line": "3917 W Maldonado Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-01"
+ },
+ {
+   "Address.1st.Line": "12010 S. Warner Elliot Loop, Ste 1A",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-02"
+ },
+ {
+   "Address.1st.Line": "3720 E. Dakota Drive",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-03"
+ },
+ {
+   "Address.1st.Line": "2222 E Cedar Ave",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-09-04"
+ },
+ {
+   "Address.1st.Line": "3435 East Amber Lane",
+   "City": "Gilbert",
+   "Date to Approach": "2019-09-05"
+ },
+ {
+   "Address.1st.Line": "14017 N 20th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-06"
+ },
+ {
+   "Address.1st.Line": "1150 E Glendale Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-07"
+ },
+ {
+   "Address.1st.Line": "4232 E. Chandler Blvd., Ste 10",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-08"
+ },
+ {
+   "Address.1st.Line": "11230 N. Tatum Blvd., Ste 103",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-09"
+ },
+ {
+   "Address.1st.Line": "2010 E Cedar Ave",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-09-10"
+ },
+ {
+   "Address.1st.Line": "AZ State Prison - Perryville",
+   "City": "Goodyear",
+   "Date to Approach": "2019-09-11"
+ },
+ {
+   "Address.1st.Line": "2105 N Citrus Rd",
+   "City": "Goodyear",
+   "Date to Approach": "2019-09-12"
+ },
+ {
+   "Address.1st.Line": "3885 S Arizona Ave",
+   "City": "Chandler",
+   "Date to Approach": "2019-09-13"
+ },
+ {
+   "Address.1st.Line": "8551 W. Palo Verde",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-14"
+ },
+ {
+   "Address.1st.Line": "4950 E. Elliott Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-15"
+ },
+ {
+   "Address.1st.Line": "4025 W. Bell Rd., Ste 5",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-16"
+ },
+ {
+   "Address.1st.Line": "1 W Campbell Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-17"
+ },
+ {
+   "Address.1st.Line": "5915 E. Arcadia Lane",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-18"
+ },
+ {
+   "Address.1st.Line": "5638 East Thomas Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-19"
+ },
+ {
+   "Address.1st.Line": "500 N Estrella Pwky, B2-241",
+   "City": "Goodyear",
+   "Date to Approach": "2019-09-20"
+ },
+ {
+   "Address.1st.Line": "1953 W. Tracy Ln.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-21"
+ },
+ {
+   "Address.1st.Line": "6847 E. Lemon Tree Dr.",
+   "City": "Prescott",
+   "Date to Approach": "2019-09-22"
+ },
+ {
+   "Address.1st.Line": "4519 North 40th Street",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-23"
+ },
+ {
+   "Address.1st.Line": "9315 N. Central Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-24"
+ },
+ {
+   "Address.1st.Line": "829 E Josephine Canyon Drive",
+   "City": "Green Valley",
+   "Date to Approach": "2019-09-25"
+ },
+ {
+   "Address.1st.Line": "14425 W McDowell Rd",
+   "City": "Goodyear",
+   "Date to Approach": "2019-09-26"
+ },
+ {
+   "Address.1st.Line": "13821 N 35th Dr  #2",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-27"
+ },
+ {
+   "Address.1st.Line": "2519 E Palo Verde Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-28"
+ },
+ {
+   "Address.1st.Line": "1110 W Weston Trail",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-09-29"
+ },
+ {
+   "Address.1st.Line": "5719 W Bent Tree Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-09-30"
+ },
+ {
+   "Address.1st.Line": "1718 N 44th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-01"
+ },
+ {
+   "Address.1st.Line": "20950 N Tatum Blvd #200",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-02"
+ },
+ {
+   "Address.1st.Line": "1904 W Hazelwood Pkwy",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-03"
+ },
+ {
+   "Address.1st.Line": "7004 N. 23rd St.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-04"
+ },
+ {
+   "Address.1st.Line": "1515 E Missouri Suite 101",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-05"
+ },
+ {
+   "Address.1st.Line": "525 W Cypress St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-06"
+ },
+ {
+   "Address.1st.Line": "7449 E. Osborn Rd. Suite 4",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-07"
+ },
+ {
+   "Address.1st.Line": "1417 N Beaver St",
+   "City": "Flagstaff",
+   "Date to Approach": "2019-10-08"
+ },
+ {
+   "Address.1st.Line": "1352 E Kent Ave",
+   "City": "Chandler",
+   "Date to Approach": "2019-10-09"
+ },
+ {
+   "Address.1st.Line": "P.O. Box 25968",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-10-10"
+ },
+ {
+   "Address.1st.Line": "2525 E Roosevelt Street",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-11"
+ },
+ {
+   "Address.1st.Line": "11130 N Tatum Blvd #103",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-12"
+ },
+ {
+   "Address.1st.Line": "2948 E Saltsage Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-13"
+ },
+ {
+   "Address.1st.Line": "912 W Chandler Blvd Ste B-3",
+   "City": "Chandler",
+   "Date to Approach": "2019-10-14"
+ },
+ {
+   "Address.1st.Line": "822 E. Union Hills, #D-6",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-15"
+ },
+ {
+   "Address.1st.Line": "2330 N. 75th Ave., Ste 112",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-16"
+ },
+ {
+   "Address.1st.Line": "8660 N. 9th Avenue",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-17"
+ },
+ {
+   "Address.1st.Line": "41 E. Dove Wing Dr",
+   "City": "Sedona",
+   "Date to Approach": "2019-10-18"
+ },
+ {
+   "Address.1st.Line": "7777 N. 43rd Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-19"
+ },
+ {
+   "Address.1st.Line": "4302 E. Bannock St.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-20"
+ },
+ {
+   "Address.1st.Line": "155 Calle Portal",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-10-21"
+ },
+ {
+   "Address.1st.Line": "4230 N 21st St. Unit: 12",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-22"
+ },
+ {
+   "Address.1st.Line": "3414 W. Union Hills #14",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-23"
+ },
+ {
+   "Address.1st.Line": "7358 N. 38th Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-24"
+ },
+ {
+   "Address.1st.Line": "635 E Baseline Road",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-25"
+ },
+ {
+   "Address.1st.Line": "720 W. Orchid Ln",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-26"
+ },
+ {
+   "Address.1st.Line": "4601 Stockton Hill Rd.",
+   "City": "Kingman",
+   "Date to Approach": "2019-10-27"
+ },
+ {
+   "Address.1st.Line": "4553 East Robert E Lee Street",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-28"
+ },
+ {
+   "Address.1st.Line": "3443 N. Central Ave., # 700",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-29"
+ },
+ {
+   "Address.1st.Line": "1720 W Adams St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-30"
+ },
+ {
+   "Address.1st.Line": "7227 N. Dreamy Draw Dr. #2",
+   "City": "Phoenix",
+   "Date to Approach": "2019-10-31"
+ },
+ {
+   "Address.1st.Line": "1468 N Litchfield Park Road",
+   "City": "Goodyear",
+   "Date to Approach": "2019-11-01"
+ },
+ {
+   "Address.1st.Line": "13947 N 110th Street",
+   "City": "Scottsdale",
+   "Date to Approach": "2019-11-02"
+ },
+ {
+   "Address.1st.Line": "4855 E. Thomas Rd., A-7",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-03"
+ },
+ {
+   "Address.1st.Line": "15640 N 7th Street Suite A-4",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-04"
+ },
+ {
+   "Address.1st.Line": "2744 E. Corrine Dr.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-05"
+ },
+ {
+   "Address.1st.Line": "625 W Deer Valley Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-06"
+ },
+ {
+   "Address.1st.Line": "3003 N Central  #630",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-07"
+ },
+ {
+   "Address.1st.Line": "3607 E Charter Oak Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-08"
+ },
+ {
+   "Address.1st.Line": "14555 W. Indian School Rd.",
+   "City": "Goodyear",
+   "Date to Approach": "2019-11-09"
+ },
+ {
+   "Address.1st.Line": "14801 N 9th St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-10"
+ },
+ {
+   "Address.1st.Line": "18404 N. Tatum Blvd., Ste-203",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-11"
+ },
+ {
+   "Address.1st.Line": "1818 E. Rovey",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-12"
+ },
+ {
+   "Address.1st.Line": "409 W. Main Street",
+   "City": "Payson",
+   "Date to Approach": "2019-11-13"
+ },
+ {
+   "Address.1st.Line": "522 E. Southern Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-14"
+ },
+ {
+   "Address.1st.Line": "1701 W Glendale Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-15"
+ },
+ {
+   "Address.1st.Line": "6345 E. Evergreen St.",
+   "City": "Mesa",
+   "Date to Approach": "2019-11-16"
+ },
+ {
+   "Address.1st.Line": "4015 N. 15th Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-17"
+ },
+ {
+   "Address.1st.Line": "4529 E Sunnyside Lane",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-18"
+ },
+ {
+   "Address.1st.Line": "12402 N. Echo Valley Dr.",
+   "City": "Oro Valley",
+   "Date to Approach": "2019-11-19"
+ },
+ {
+   "Address.1st.Line": "2626 E Arizona Biltmore Circle",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-20"
+ },
+ {
+   "Address.1st.Line": "7550 N. 19th Ave. #101",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-21"
+ },
+ {
+   "Address.1st.Line": "57 E. Monterey Way  #7",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-22"
+ },
+ {
+   "Address.1st.Line": "1646 N. Litchfield Rd., Ste-260",
+   "City": "Goodyear",
+   "Date to Approach": "2019-11-23"
+ },
+ {
+   "Address.1st.Line": "26220 N. Fernbush Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-24"
+ },
+ {
+   "Address.1st.Line": "2100 N. 145th Ave. Apt. 1078",
+   "City": "Goodyear",
+   "Date to Approach": "2019-11-25"
+ },
+ {
+   "Address.1st.Line": "13657 W McDowell Rd  #208",
+   "City": "Goodyear",
+   "Date to Approach": "2019-11-26"
+ },
+ {
+   "Address.1st.Line": "550 E. Thomas Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-27"
+ },
+ {
+   "Address.1st.Line": "375 W Calle La Bolita",
+   "City": "Sahuarita",
+   "Date to Approach": "2019-11-28"
+ },
+ {
+   "Address.1st.Line": "1510 E Rockwood Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-29"
+ },
+ {
+   "Address.1st.Line": "635 E. Baseline Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2019-11-30"
+ },
+ {
+   "Address.1st.Line": "15260 W McDowell Rd",
+   "City": "Goodyear",
+   "Date to Approach": "2019-12-01"
+ },
+ {
+   "Address.1st.Line": "6520 N 7th Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-02"
+ },
+ {
+   "Address.1st.Line": "3171 E Rose Lane",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-03"
+ },
+ {
+   "Address.1st.Line": "10211 N 32nd St  #A-1",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-04"
+ },
+ {
+   "Address.1st.Line": "902 S Beeline Highway",
+   "City": "Payson",
+   "Date to Approach": "2019-12-05"
+ },
+ {
+   "Address.1st.Line": "5104 N 32nd St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-06"
+ },
+ {
+   "Address.1st.Line": "2307 East Glenrosa Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-07"
+ },
+ {
+   "Address.1st.Line": "4550 E. Bell Rd., Ste 102",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-08"
+ },
+ {
+   "Address.1st.Line": "12320 N 32nd St #2",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-09"
+ },
+ {
+   "Address.1st.Line": "1550 N Stapley Dr  #94",
+   "City": "Mesa",
+   "Date to Approach": "2019-12-10"
+ },
+ {
+   "Address.1st.Line": "2926 N 17th Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-11"
+ },
+ {
+   "Address.1st.Line": "4235 W. Thunderbird Road",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-12"
+ },
+ {
+   "Address.1st.Line": "7550 N. 16th St., Apt. 6300",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-13"
+ },
+ {
+   "Address.1st.Line": "33710 N 24th Drive",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-14"
+ },
+ {
+   "Address.1st.Line": "4210 N 32nd St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-15"
+ },
+ {
+   "Address.1st.Line": "7349 N. 23rd Street",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-16"
+ },
+ {
+   "Address.1st.Line": "1809 E. Cashman Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-17"
+ },
+ {
+   "Address.1st.Line": "150 Papago Blvd.",
+   "City": "Winslow",
+   "Date to Approach": "2019-12-18"
+ },
+ {
+   "Address.1st.Line": "2065 N Doran",
+   "City": "Mesa",
+   "Date to Approach": "2019-12-19"
+ },
+ {
+   "Address.1st.Line": "PO BOX 649",
+   "City": "Fort Defiance",
+   "Date to Approach": "2019-12-20"
+ },
+ {
+   "Address.1st.Line": "6847 E. Lemon Tree Dr.",
+   "City": "Prescott",
+   "Date to Approach": "2019-12-21"
+ },
+ {
+   "Address.1st.Line": "AZ State Prison Complex",
+   "City": "Goodyear",
+   "Date to Approach": "2019-12-22"
+ },
+ {
+   "Address.1st.Line": "1728 W Glendale Ave  #407",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-23"
+ },
+ {
+   "Address.1st.Line": "934 W Lynwood St",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-24"
+ },
+ {
+   "Address.1st.Line": "5282 Desert Shadows Dr",
+   "City": "Sierra Vista",
+   "Date to Approach": "2019-12-25"
+ },
+ {
+   "Address.1st.Line": "2418 E Desert Cove Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-26"
+ },
+ {
+   "Address.1st.Line": "836 Campbell St",
+   "City": "Prescott",
+   "Date to Approach": "2019-12-27"
+ },
+ {
+   "Address.1st.Line": "1500 N Markdale  #11",
+   "City": "Mesa",
+   "Date to Approach": "2019-12-28"
+ },
+ {
+   "Address.1st.Line": "5 N. 12th St., Suite 203",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-29"
+ },
+ {
+   "Address.1st.Line": "233 W Mountain Sage Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-30"
+ },
+ {
+   "Address.1st.Line": "2751 East Redfield Road",
+   "City": "Phoenix",
+   "Date to Approach": "2019-12-31"
+ },
+ {
+   "Address.1st.Line": "1210 N Paseo Maravilloso",
+   "City": "Green Valley",
+   "Date to Approach": "2020-01-01"
+ },
+ {
+   "Address.1st.Line": "4733 W. Menadota Dr.",
+   "City": "Glendale",
+   "Date to Approach": "2020-01-02"
+ },
+ {
+   "Address.1st.Line": "20250 N 67th Ave #3149",
+   "City": "Glendale",
+   "Date to Approach": "2020-01-03"
+ },
+ {
+   "Address.1st.Line": "3902 E Mountain View Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-04"
+ },
+ {
+   "Address.1st.Line": "833 S. Cotton Ln #E120",
+   "City": "Goodyear",
+   "Date to Approach": "2020-01-05"
+ },
+ {
+   "Address.1st.Line": "710 N. Beaver St. Bldg 2-1",
+   "City": "Flagstaff",
+   "Date to Approach": "2020-01-06"
+ },
+ {
+   "Address.1st.Line": "4642 E. Daley Ln",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-07"
+ },
+ {
+   "Address.1st.Line": "3281 Marigold Dr",
+   "City": "Prescott",
+   "Date to Approach": "2020-01-08"
+ },
+ {
+   "Address.1st.Line": "2336 W Northern Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-09"
+ },
+ {
+   "Address.1st.Line": "380 E Virginia",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-10"
+ },
+ {
+   "Address.1st.Line": "4622 N. 40th St.",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-11"
+ },
+ {
+   "Address.1st.Line": "15600 Frank Lloyd Wright Blvd., Apt-1089",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-12"
+ },
+ {
+   "Address.1st.Line": "10265 W Camelback Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-13"
+ },
+ {
+   "Address.1st.Line": "2601 E Brown Rd",
+   "City": "Mesa",
+   "Date to Approach": "2020-01-14"
+ },
+ {
+   "Address.1st.Line": "315 W. Diana Ave.",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-15"
+ },
+ {
+   "Address.1st.Line": "16039 S 9th Pl",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-16"
+ },
+ {
+   "Address.1st.Line": "8952 E Desert Cove Ste 108",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-17"
+ },
+ {
+   "Address.1st.Line": "4726 E. Thomas Rd.",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-18"
+ },
+ {
+   "Address.1st.Line": "RT. 3 Box 1002",
+   "City": "Sedona",
+   "Date to Approach": "2020-01-19"
+ },
+ {
+   "Address.1st.Line": "4950 E Elliot Rd",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-20"
+ },
+ {
+   "Address.1st.Line": "2328 N Central Ave",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-21"
+ },
+ {
+   "Address.1st.Line": "7227 N. Dreamy Draw Drive, #4",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-22"
+ },
+ {
+   "Address.1st.Line": "14001 N 7th St #D108",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-23"
+ },
+ {
+   "Address.1st.Line": "3855 E Expedition Way",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-24"
+ },
+ {
+   "Address.1st.Line": "86 E. Country Club Dr.",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-25"
+ },
+ {
+   "Address.1st.Line": "5516 N Camelback Canyon Dr",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-26"
+ },
+ {
+   "Address.1st.Line": "7455 E Sunset Sky Circle",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-27"
+ },
+ {
+   "Address.1st.Line": "19700 N 76th #2159",
+   "City": "Scottsdale",
+   "Date to Approach": "2020-01-28"
+ },
+ {
+   "Address.1st.Line": "1440 E. Missouri Ave Ste 125",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-29"
+ },
+ {
+   "Address.1st.Line": "770 E. Thunderbird Road",
+   "City": "Phoenix",
+   "Date to Approach": "2020-01-30"
+ },
+ {
+   "Address.1st.Line": "1646 N Litchfield Rd., Ste-225",
+   "City": "Goodyear",
+   "Date to Approach": "2020-01-31"
+ }
+]
