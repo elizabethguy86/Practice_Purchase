@@ -1,0 +1,19 @@
+{
+  "name": "practice_purchase",
+  "version": "1.0.0",
+  "description": "A model to predict medical practices to market to for commercial sales.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizabethguy86/Practice_Purchase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizabethguy86/Practice_Purchase/issues"
+  },
+  "homepage": "https://github.com/elizabethguy86/Practice_Purchase#readme"
+}
