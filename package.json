@@ -4,7 +4,8 @@
   "description": "A model to predict medical practices to market to for commercial sales.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./site/backend/app.js"
   },
   "repository": {
     "type": "git",
