@@ -1,2 +1,5 @@
 # Practice_Purchase
-A model to predict medical practices to market to for commercial sales.
+A model for targeted approaches to maximize sales probabilities for medical properties.
+ 
+ 
+ smooth-curtain.surge.sh
